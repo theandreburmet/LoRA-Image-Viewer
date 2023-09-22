@@ -33,7 +33,7 @@ LoRA Image Viewer is a PyQt5-based application that allows users to view and edi
 1. **Clone the GitHub repository**:
 Open Git Bash or your preferred terminal.
 
-	   git clone git@github.com:theandreburmet/LoRA-Image-Viewer.git
+	   git clone https://github.com/theandreburmet/LoRA-Image-Viewer.git
 	   cd LoRA-Image-Viewer
 
 2. **Install the required dependencies**: 
@@ -41,8 +41,8 @@ It's recommended to use a virtual environment to prevent any dependency conflict
 
 		python -m venv venv
 		.\venv\Scripts\activate
-		pip install PyQt5 imagehash PIL
+		pip install -r requirements.txt
 
 3. **Run the application**:
 
-		python Lora_Folder_Viewer.py
+		Lora_ImageViewer.bat

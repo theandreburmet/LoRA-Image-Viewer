@@ -1,5 +1,8 @@
 #  LoRA Image Viewer
 
+![main ui](image\captures_01.png)
+![main ui](image\captures_02.png)
+
 LoRA Image Viewer is a PyQt5-based application that allows users to view and edit images and texts from a folder.
 
 ## Installation

@@ -1,6 +1,6 @@
-from PyQt5 import QtWidgets, uic
-from PyQt5.QtWidgets import QApplication, QMessageBox, QFileDialog, QGraphicsView, QGraphicsScene, QVBoxLayout, QLabel, QTextEdit, QHBoxLayout, QWidget, QLayout, QPushButton
-from PyQt5.QtGui import QPixmap
+from PyQt6 import QtWidgets, uic
+from PyQt6.QtWidgets import QApplication, QMessageBox, QFileDialog, QGraphicsView, QGraphicsScene, QVBoxLayout, QLabel, QTextEdit, QHBoxLayout, QWidget, QLayout, QPushButton
+from PyQt6.QtGui import QPixmap
 from PIL import Image
 import imagehash
 import os

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Chemin vers votre environnement virtuel .venv (remplacez-le par le bon chemin)
-VENV_PATH=".venv"
+VENV_PATH="venv"
 
 # Activez l'environnement virtuel
 source "$VENV_PATH/bin/activate"

@@ -1,1 +1,1 @@
-f:/Dropbox/PERSO/ALEXANDRE/Script/LORA_Folder_Viewer/.venv/Scripts/python.exe Lora_Folder_Viewer.py
+.venv/Scripts/python.exe Lora_Folder_Viewer.py

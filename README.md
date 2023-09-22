@@ -20,7 +20,12 @@ LoRA Image Viewer is a PyQt5-based application that allows users to view and edi
 		 python3 -m venv venv
 		 source venv/bin/activate
 		 pip install -r requirements.txt
-4. **Run the application**:
+
+4. **Make the script executable**:
+
+		chmod +x Lora_ImageViewer.sh
+
+5. **Run the application**:
 
 		./Lora_ImageViewer.sh
 

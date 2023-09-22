@@ -265,4 +265,4 @@ class DuplicateViewer(QtWidgets.QMainWindow):
 
 app = QApplication([])
 window = ImageTextEditor()
-app.exec_()
+app.exec()
